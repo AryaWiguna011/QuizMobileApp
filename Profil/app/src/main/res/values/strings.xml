@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BINUS Student Profile</string>
+    <string name="student_name">I Putu Gede Arya Cahya Wiguna</string>
+    <string name="student_nim">NIM: 2702330123</string>
+    <string name="university_name">Mahasiswa BINUS University</string>
+    <string name="about_title">Tentang Saya</string>
+    <string name="contact_title">Kontak</string>
+    <string name="skills_title">Keahlian:</string>
+    <string name="interests_title">Minat:</string>
+    <string name="about_text">Halo! Saya adalah mahasiswa BINUS University yang sedang menempuh pendidikan di bidang teknologi. Saya memiliki passion dalam pengembangan web dan teknologi informasi.</string>
+    <string name="email_text">email@binus.ac.id</string>
+    <string name="linkedin_text">LinkedIn Profile</string>
+    <string name="github_text">GitHub Profile</string>
+    <string name="footer_text">© 2024 BINUS University Student Profile</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Profil App</string>
+    <string name="profile_name">Nama Anda</string>
+    <string name="profile_nim">NIM Anda</string>
+    <string name="about_me_title">Tentang Saya</string>
+    <string name="about_me_text">Deskripsi tentang diri Anda. Ceritakan tentang hobi, minat, pengalaman, atau hal-hal menarik lainnya yang ingin Anda bagikan.</string>
+    <string name="contact_title">Informasi Kontak</string>
+    <string name="email">email@anda.com</string>
+    <string name="phone">+62 812 3456 7890</string>
+    <string name="location">Kota Anda, Indonesia</string>
+</resources>
